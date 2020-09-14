@@ -35,3 +35,6 @@ On average of 1000 (missing k's in xaxis were null, i.e no units sold in that ra
 
 While as for price, item's sold from 50k-100k are cheaper  than lesser sold items on average by 2 euros.
 
+(*Hi thank you for reading so far.  I have done several more feature engineering and data cleaning that could not be included in this file. I am also working on implementing several ML models and optimizations for prediction of avg. customer ratings. Please visit my kaggle page if u want to read in details. @ https://www.kaggle.com/nibukdk93/summer-sales-wish-acc-100*)
+
+
